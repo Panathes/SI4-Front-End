@@ -1,0 +1,64 @@
+body {
+  padding-top: 150px;
+}
+
+.dreBlock {
+  float: left;
+  padding-left: 100px;
+  padding-top: 36px;
+}
+
+.g {
+  color: #197B2A;
+}
+
+.DRE {
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  color: #414141;
+  padding-bottom: 65px;
+}
+
+.weeks {
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.container {
+  max-width: 1170px;
+  padding: 0px 20px;
+  margin: auto;
+}
+
+.box {
+  background: red;
+}
+
+.containerAgenda {
+  max-width: 1035px;
+  min-height: 600px;
+  background: #F5F7F8;
+  text-align: center;
+}
+
+.containerDay {
+  padding-left: 52px;
+  padding-top: 39px;
+}
+
+.days {
+  list-style: none;
+  text-align: center;
+  display: inline;
+  font-size: 25px;
+  font-family: 'Lato', sans-serif;
+  padding-left: 25px;
+}
+
+/* .trait {
+  width:1px;
+  height:50vh;
+  background-color:black;
+  display: inline-block;
+} */
