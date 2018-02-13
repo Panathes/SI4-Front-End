@@ -1,0 +1,63 @@
+.eventBox {
+  width: 20px;
+  display: flex;
+  margin-left: 500px;
+  margin-top: 280px;
+
+}
+
+.box {
+  padding: 30px;
+}
+
+p {
+
+
+}
+
+.md {
+  font-family: 'lato';
+  font-size: 10px;
+  margin-right: 150px;
+  color: #168B37;
+}
+
+.zd {
+  font-family: 'lato';
+  font-size: 10px;
+  margin-right: 150px;
+  color: #168B37;
+}
+
+.vd {
+  font-family: 'lato';
+  font-size: 10px;
+  margin-right: 135px;
+  color: #168B37;
+}
+
+.ld {
+  font-family: 'lato';
+  font-size: 10px;
+  margin-right: 110px;
+  color: #168B37;
+
+}
+
+.za {
+  font-family: 'lato';
+  font-size: 10px;
+  font-weight: 300;
+
+}
+
+.lol{
+  display: flex;
+  flex-direction: row;
+}
+
+.pictures {
+  width: 250px;
+  height: 70%;
+
+}
